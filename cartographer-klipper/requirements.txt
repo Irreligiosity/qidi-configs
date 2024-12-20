@@ -1,0 +1,4 @@
+# klipper python virtual environment requirements for Cartographer
+numpy~=1.16
+scipy>=1.2.3
+matplotlib>=2.2.5
